@@ -21,3 +21,11 @@
 - 启动项目，运行 http://localhost:8080/dangjian 普通用户账号/密码：13033333333/123456 
 
 - http://localhost:8080/dangjian/admin/login.jsp 管理员账号/密码：admin/admin  党务账号/密码：dangwu1/123456 (普通用户不要在管理web页面登陆)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-018/blob/master/8.png)
